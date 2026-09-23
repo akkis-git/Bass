@@ -22,6 +22,6 @@ dependencyResolutionManagement {
   }
 }
 
-rootProject.name = "Build App"
+rootProject.name = "AadhaarBAS Dev"
 
 include(":app")

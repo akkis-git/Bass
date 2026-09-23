@@ -1,3 +1,13 @@
 <resources>
-    <string name="app_name">Build App</string>
+    <string name="app_name">AadhaarBAS Dev</string>
+    <string name="dev_mode_title">Developer Options Enabled</string>
+    <string name="dev_mode_desc">Developer options and mock location features are enabled for testing and development in this edition.</string>
+    <string name="mock_location_allowed_msg">Mock GPS Location allowed. You can mark attendance using developer tools or test coordinates.</string>
+    <string name="consent_message">I give my consent for my biometric Aadhaar authentication to mark attendance.</string>
+    <string name="terms_and_conditions">I agree to the Terms and Conditions and Privacy Policy of AadhaarBAS.</string>
+    <string name="mark_attendance">Mark Attendance</string>
+    <string name="scanning_biometrics">Scanning Biometrics...</string>
+    <string name="attendance_success">Attendance marked successfully!</string>
+    <string name="attendance_offline_queued">Attendance recorded locally (Offline Mode). Will sync when online.</string>
+    <string name="dev_override_active">Developer Override Active</string>
 </resources>
